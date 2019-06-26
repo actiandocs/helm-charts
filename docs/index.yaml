@@ -3,11 +3,11 @@ entries:
   integration-manager:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-06-26T15:10:32.3078938-05:00
+    created: 2019-06-26T15:37:43.7065455-05:00
     description: A Helm chart to install Integration Manager on Kubernetes
     digest: 9bbcc2a65bb3046955a05d45b5ce96d3b8b5fb1963b412f7c101d73f79c30184
     name: integration-manager
     urls:
-    - https://actiandocs.github.com/helm-charts/integration-manager-1.1.0.tgz
+    - https://actiandocs.github.io/helm-charts/integration-manager-1.1.0.tgz
     version: 1.1.0
-generated: 2019-06-26T15:10:32.3068797-05:00
+generated: 2019-06-26T15:37:43.7055437-05:00
